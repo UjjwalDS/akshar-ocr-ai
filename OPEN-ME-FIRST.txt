@@ -1,0 +1,11 @@
+AKSHAR OCR AI — v2026.10.08
+
+Extract this entire ZIP, then run Akshar-OCR-AI.exe from this extracted folder.
+Use the browser address opened by THIS executable, normally 127.0.0.1:8890. Do not use an old tab or bookmark.
+Check that the workspace header says v2026.10.08.
+
+Included: side-by-side Compare & edit, adjustable split, linked scrolling, compact top ribbon, top OCR settings, preview colours, selectable layouts, page autosave and bookmarks, word suggestions, OCR scan highlighting, Hindi punctuation review, background page extraction and the two most recent resumable projects.
+
+This clean release stores data in %LOCALAPPDATA%\AksharOCRAI. Older saved libraries are left untouched but are not automatically migrated. Export important work from the old app before closing it.
+
+Windows 10/11 64-bit. No separate Python or Tesseract installation required. Additional languages need a first-time model download.

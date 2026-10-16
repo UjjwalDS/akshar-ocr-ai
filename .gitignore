@@ -1,0 +1,24 @@
+﻿# Compiled / packaged executable
+*.exe
+*.spec
+dist/
+build/
+__pycache__/
+
+# Model binaries
+*.traineddata
+ocr-engine/
+
+# Archives
+*.zip
+*.tar.gz
+
+# Python environment
+.env
+venv/
+env/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.pyc
